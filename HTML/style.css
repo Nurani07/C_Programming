@@ -1,0 +1,17 @@
+h1{
+    color:black;
+    padding: 20px;
+    width: 60%;
+    border: solid 3px blue;
+    border-radius:15px ;
+}
+h2{
+   color: rgb(135, 15, 15); 
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border: solid;
+    border-radius: 120px;
+}
